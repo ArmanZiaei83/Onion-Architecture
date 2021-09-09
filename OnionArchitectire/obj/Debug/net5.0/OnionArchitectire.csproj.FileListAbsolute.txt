@@ -1,0 +1,16 @@
+C:\Repos\OnionArchitectire\OnionArchitectire\bin\Debug\net5.0\OnionArchitectire.exe
+C:\Repos\OnionArchitectire\OnionArchitectire\bin\Debug\net5.0\OnionArchitectire.deps.json
+C:\Repos\OnionArchitectire\OnionArchitectire\bin\Debug\net5.0\OnionArchitectire.runtimeconfig.json
+C:\Repos\OnionArchitectire\OnionArchitectire\bin\Debug\net5.0\OnionArchitectire.runtimeconfig.dev.json
+C:\Repos\OnionArchitectire\OnionArchitectire\bin\Debug\net5.0\OnionArchitectire.dll
+C:\Repos\OnionArchitectire\OnionArchitectire\bin\Debug\net5.0\ref\OnionArchitectire.dll
+C:\Repos\OnionArchitectire\OnionArchitectire\bin\Debug\net5.0\OnionArchitectire.pdb
+C:\Repos\OnionArchitectire\OnionArchitectire\obj\Debug\net5.0\OnionArchitectire.csproj.AssemblyReference.cache
+C:\Repos\OnionArchitectire\OnionArchitectire\obj\Debug\net5.0\OnionArchitectire.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\OnionArchitectire\OnionArchitectire\obj\Debug\net5.0\OnionArchitectire.AssemblyInfoInputs.cache
+C:\Repos\OnionArchitectire\OnionArchitectire\obj\Debug\net5.0\OnionArchitectire.AssemblyInfo.cs
+C:\Repos\OnionArchitectire\OnionArchitectire\obj\Debug\net5.0\OnionArchitectire.csproj.CoreCompileInputs.cache
+C:\Repos\OnionArchitectire\OnionArchitectire\obj\Debug\net5.0\OnionArchitectire.dll
+C:\Repos\OnionArchitectire\OnionArchitectire\obj\Debug\net5.0\ref\OnionArchitectire.dll
+C:\Repos\OnionArchitectire\OnionArchitectire\obj\Debug\net5.0\OnionArchitectire.pdb
+C:\Repos\OnionArchitectire\OnionArchitectire\obj\Debug\net5.0\OnionArchitectire.genruntimeconfig.cache
